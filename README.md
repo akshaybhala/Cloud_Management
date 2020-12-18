@@ -1,8 +1,8 @@
 # Cloud Management
 
 #### Project: BUS HUB
-![alt text](https://github.com/akshaybhala/MachineLearning/blob/main/Analysis-of-Airline-Data-master/Airlinestatus.png)
-![alt text](https://github.com/akshaybhala/MachineLearning/blob/main/Analysis-of-Airline-Data-master/Airlinestatus.png)
+[Project Link: ](https://github.com/akshaybhala/Cloud_Management/tree/main/BUS%20HUB%20Project)
+![alt text](https://github.com/akshaybhala/Cloud_Management/blob/main/BUS%20HUB%20Project/Bus%20Hub%20main/BusinessIdea.png)
 
 #### Lab1: Understand the definitions of various Amazon Web Services (AWS) and their use in cloud computing-based web applications that are accessible over the internet. I have used Amazon Elastic Compute Cloud (Amazon EC2) to configure, launch, and connect to a linux and windows instance.I have also used AWS CodeDeploy to deploy a webpage from GitHub to the EC2 instance
 
